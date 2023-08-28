@@ -8,11 +8,11 @@ Table of Contents
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Dockerizing the Game](#dockerizing-the-game)
+- [Dockerizing](#dockerizing)
 - [Contributing](#contributing)
 - [License](#license)
 
-Description
+##Description
 
 Welcome to the Chat App! This application is built using Tkinter, allowing you to engage in private chats with other users. You can create private chat rooms, send messages, and have fun chatting with your friends.
 Getting Started
@@ -23,7 +23,7 @@ Prerequisites
     Python 3
     Tkinter
 
-Installation
+###Installation
 
     Clone this repository to your local machine:
 
