@@ -3,14 +3,14 @@ Chat App
 Chat App Screenshot
 Table of Contents
 
-    Description
-    Getting Started
-        Prerequisites
-        Installation
-    Usage
-    Dockerizing the App
-    Contributing
-    License
+- [Description](#description)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Dockerizing the Game](#dockerizing-the-game)
+- [Contributing](#contributing)
+- [License](#license)
 
 Description
 
