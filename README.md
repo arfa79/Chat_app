@@ -1,4 +1,4 @@
-Chat App
+# Chat App
 
 Chat App Screenshot
 Table of Contents
@@ -27,7 +27,7 @@ Discover the world of private conversations and connect with others using the Ch
 
     Clone this repository to your local machine:
 
-git clone https://github.com/your-username/chat_app.git
+git clone https://github.com/arfa79/chat_app.git
 
 Navigate to the app directory:
 
