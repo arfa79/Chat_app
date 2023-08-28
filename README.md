@@ -18,12 +18,13 @@ Welcome to the Chat App! This application is built using Tkinter, allowing you t
 Getting Started
 
 Discover the world of private conversations and connect with others using the Chat App.
-Prerequisites
+
+### Prerequisites
 
     Python 3
     Tkinter
 
-###Installation
+### Installation
 
     Clone this repository to your local machine:
 
@@ -37,7 +38,7 @@ Install the required dependencies:
 
     pip install -r requirements.txt
 
-Usage
+## Usage
 
     Run the app:
 
@@ -49,9 +50,10 @@ Dockerizing the App
 
 Running graphical applications in Docker containers can be a bit complex due to GUI limitations. Currently, Dockerization is not supported for this app.
 
-Contributing
+## Contributing
 
-Contributions are always encouraged! If you encounter any issues or have ideas for improvements, please open an issue or submit a pull request.
-License
+Contributions are always encouraged! If you encounter any issues or have ideas for improvements, please open an issue or submit a pull request
+
+## License
 
 This project is licensed under the GPL License. See the LICENSE file for details.
