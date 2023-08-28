@@ -4,7 +4,6 @@ Chat App Screenshot
 Table of Contents
 
 - [Description](#description)
-- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -12,7 +11,7 @@ Table of Contents
 - [Contributing](#contributing)
 - [License](#license)
 
-##Description
+## Description
 
 Welcome to the Chat App! This application is built using Tkinter, allowing you to engage in private chats with other users. You can create private chat rooms, send messages, and have fun chatting with your friends.
 Getting Started
@@ -46,7 +45,7 @@ Install the required dependencies:
 
     Follow the on-screen instructions to use the app.
 
-Dockerizing the App
+## Dockerizing the App
 
 Running graphical applications in Docker containers can be a bit complex due to GUI limitations. Currently, Dockerization is not supported for this app.
 
