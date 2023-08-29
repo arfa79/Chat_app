@@ -1,6 +1,5 @@
 # Chat App
 
-Chat App Screenshot
 Table of Contents
 
 - [Description](#description)
